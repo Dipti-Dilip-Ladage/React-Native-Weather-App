@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import {SafeAreaView, ScrollView, StyleSheet, View} from 'react-native';
+import {StyleSheet, View} from 'react-native';
 import Weather from './src/screens/Weather';
 import 'react-native-devsettings';
 
