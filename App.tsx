@@ -13,9 +13,7 @@ import 'react-native-devsettings';
 const App = () => {
   return (
     <View style={styles.container}>
-      {/* <ScrollView style={styles.scrollViewStyle}> */}
       <Weather />
-      {/* </ScrollView> */}
     </View>
   );
 };
